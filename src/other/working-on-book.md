@@ -121,9 +121,10 @@ After you're happy with the proposed changes ..,
 
     In the grey bar above "Add a title", make sure that ...
 
-    * "base" should point to the `foks-proj/book` repo
-    * "compare" should point to the branch you created in your repo
-
+    * "base repository" points to the `foks-proj/book` repo
+    * "base" points to `main` (the branch you want to merge *into*)
+    * "head repository" points to your repo
+    * "compare" points to the branch containing the changes in your repo
 
     &#x21D2; [Github Documentation - Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
