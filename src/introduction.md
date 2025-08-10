@@ -6,9 +6,11 @@ If you're just learning about FOKS, you should probably start with the [Backgrou
 
 > &#x2139;&#xFE0F; **Just Getting Started**
 >
-> If you're seeing this, the "book" is in the *very* early stages. I'm still trying to figure out what pages need to exist, how they should be structured, and how they should be managed.
+> If you're seeing this message, this "book" is in the *very* early stages. I'm still trying to figure out what pages need to exist, how they should be structured, and how much detail they should go into.
 >
-> For now you can expect to see a lot of pages which don't exist yet, or which exist but have little or no content. It's possible that the pages may be renamed, re-arranged, or deleted as time goes by, and if this happens, the URLs of the individual pages will change. If you're going to save bookmarks, I recommend you save *just* the URL for the site itself, rather than any individual page.
+> For now you can expect to see pages which don't exist yet, or which exist but have little or no real content. You will also see a lot of &#x2753; marks as well. Hopefully these will be filled in over time.
+>
+> It's possible that the pages within the book may be renamed, re-arranged, or deleted as time goes by, and if this happens, the URLs of the individual pages will change. If you're going to save bookmarks, I recommend you save *just* the URL for the site itself, rather than any individual page.
 >
 > If you're interested in helping to write or edit the book, start by reading the [Working on this Book](other/working-on-book.md) page, which walks through the basics of how to use mdbook.
 
@@ -19,8 +21,10 @@ If you're just learning about FOKS, you should probably start with the [Backgrou
 * [First blog post](https://blog.foks.pub/posts/introducing/) announcing the service
 * [White Paper](https://github.com/foks-proj/foks-whitepaper/raw/refs/heads/main/foks-whitepaper.pdf) - includes details about how the cryptography works
 * [`https://w.foks.app/`](https://w.foks.app/) - FOKS Hosting Service
-    * free accounts exist, but they're meant to be used to try it out before getting a paid account or standing up your own server
+    * free accounts exist, but they're meant to be used to try it out before upgrading to a paid account or standing up your own server
     * minimal storage (maybe 3 MiB?)
+* [Github `foks-proj/go-foks`](https://github.com/foks-proj/go-foks) - Source code for the client and server
+* [Github `foks-proj/book`](https://github.com/foks-proj/book) - Source code for this "book" web site
 
 
 ## Chat

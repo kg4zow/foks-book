@@ -10,7 +10,10 @@ For now this is just a list of what I think would be useful to cover.
     * offers [paid accounts](https://w.foks.app/)
     * free accounts only allow a few MiB of data to be stored - enough for basic testing, then `foks admin web` to log in and convert to paid account
 * `vh.foks.app`
-* others - self-hosted
+* other servers - anybody can stand up their own FOKS server
+    * source code is in the same repo with `foks` client
+    * can be free or paid, the `foks.app` server is using it
+
 
 ## Users
 
@@ -18,12 +21,23 @@ For now this is just a list of what I think would be useful to cover.
 * encryption: per-user key
 * per-user storage limit (depending on server policy)
 
+
 ## Devices
 
-* each user can have multiple devices
-* physical device, backup key, Yubikey
-* "profiles" are per-user settings, on a physical device
-* encryption: per-device key is used to unlock per-user key &#x2753;
+* each user account can have multiple devices
+* computers can access multiple FOKS accounts, only one is active at a time
+* key types
+    * device key
+    * backup key
+    * Yubikey
+* encryption: per-device key is used to decrypt per-user and per-team keys, which are then used to decrypt
+
+
+## Profiles
+
+* "profiles" contain per-user settings associated with a device/backup/yubikey
+* &#x2753; TBD
+
 
 ## Teams
 
@@ -40,6 +54,7 @@ For now this is just a list of what I think would be useful to cover.
 * user/team names are in the same "namespace"
     * if user `xyz` exists on a server, team `xyz` cannot be created on the same server
 * encryption: per-team key
+
 
 ## Roles
 
