@@ -1,10 +1,15 @@
 # Working with Key Value Storage
 
+> &#x2139;&#xFE0F; This page is just a rough outline of what I want to cover.
+
+
 Background
 
 * namespace
 * "reserved" names (i.e. `/app/`, others?)
 * value types and limits
+* &#x21D2; [REST API](kv-rest.md)
+
 
 Procedures
 
@@ -19,4 +24,3 @@ Procedures
 * get usage
 * rename/move a value
 
-Questions

@@ -17,11 +17,12 @@
 - [Installing FOKS](client/install.md)
 - [Creating a User](client/create-user.md)
 - [Working with Keys and Devices](client/keys.md)
-    - [Key Storage](client/key-storage.md)
+    - [Secret Key Storage](client/key-storage.md)
     - [Passphrases](client/passphrase.md)
     - [Yubikeys](client/yubikey.md)
 - [Working with Teams](client/teams.md)
 - [Working with Key Value Storage](client/kv.md)
+    - [REST API](client/kv-rest.md)
 - [Working with Git Repositories](client/git.md)
 
 ---

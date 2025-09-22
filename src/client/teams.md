@@ -1,5 +1,7 @@
 # Working with Teams
 
+> &#x2139;&#xFE0F; This page is just a rough outline of what I want to cover.
+
 Background
 
 * roles (owner, admin, member, none)

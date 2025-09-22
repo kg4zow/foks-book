@@ -31,7 +31,7 @@ If you're just learning about FOKS, you should probably start with the [Backgrou
 
 I've created the [foks_book](https://keybase.io/team/foks_book/) team on Keybase, and plan to use its "team chat" channel as a place for people to coordinate with each other and make sure we aren't duplicating each others' efforts.
 
-If you're interested in working on this book, please join that team. The team is not fully open, but any Keybase user is able to *ask* to join, and I will try to approve people as quickly as possible (while I'm awake ... I'm physically in Florida, US, and regardless of what you may have heard, I *do* sometimes sleep at night. &#x1F601;)
+If you're interested in working on this book, please join that team. The team is not fully open (I don't want to have to deal with spammers), but any Keybase user is able to *ask* to join, and I will try to approve people as quickly as possible (while I'm awake ... I'm physically in Florida, US, and regardless of what you may have heard, I *do* sometimes sleep at night. &#x1F601;)
 
 If you have questions about FOKS that the book doesn't cover, *also* please join that team. Knowing what questions people are *asking* helps us to know what the book needs to cover, and if your question is *answered*, having the answer in the chat room's history can make it a easier when adding the information to the book.
 
